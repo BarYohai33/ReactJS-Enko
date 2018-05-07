@@ -1,6 +1,7 @@
 const sideBarStyle = {
 	backgroundColor:'#000000BF',
-	height:'100vh',
+	maxWidth:'100%',
+	maxHeight:'100%',
 }
 
 export default {sideBarStyle };

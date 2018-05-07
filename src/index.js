@@ -7,12 +7,14 @@ import registerServiceWorker from './registerServiceWorker';
 class App extends Component {
   render() {
     return (
+    	
  
       <Shipping/>
 
     );
   }
 }
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();

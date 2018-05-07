@@ -13,9 +13,6 @@ export const bgImg = props => (
 		         xs = "9"
 				 style = { Style.bgImgStyle }
 			>
-
-
-
 			</Col>
 
 

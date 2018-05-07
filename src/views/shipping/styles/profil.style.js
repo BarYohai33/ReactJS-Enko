@@ -1,10 +1,11 @@
 const profilStyle = {
 	backgroundColor: 'transparent',
 	border:0,
+	marginLeft:15
 }
 const profilStyleImg = {
-	width:70,
-	height:70,
+	width:50,
+	height:50,
 	cursor:'pointer',
 	borderRadius:50,
 }
